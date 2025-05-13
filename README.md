@@ -166,7 +166,7 @@
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
+* Credit: [Maoeyu](https://github.com/MaoFuyou)
 * Last Edited on: 20/04/2025
 
 
